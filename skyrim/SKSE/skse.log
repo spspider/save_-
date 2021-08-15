@@ -1,0 +1,55 @@
+SKSE runtime: initialize (version = 1.7.0 09200000 01CFA29C931D7768, os = 6.1 (7601))
+imagebase = 00400000
+runtime root = D:\Games\The Elder Scrolls 5.Skyrim\
+config path = D:\Games\The Elder Scrolls 5.Skyrim\Data\SKSE\skse.ini
+plugin directory = D:\Games\The Elder Scrolls 5.Skyrim\Data\SKSE\Plugins\
+checking plugin D:\Games\The Elder Scrolls 5.Skyrim\Data\SKSE\Plugins\\DCF_plugin.dll
+plugin D:\Games\The Elder Scrolls 5.Skyrim\Data\SKSE\Plugins\\DCF_plugin.dll (00000001 DCF_plugin 00000004) loaded correctly
+init complete
+hooked dinput
+save name is autosave2
+full save path: C:\Users\vasja\Documents\My Games\Skyrim\Saves\\autosave2.skse
+loading co-save
+Loading mod list:
+	(0 -> 0)	Skyrim.esm
+	(1 -> 1)	Update.esm
+	(2 -> 2)	Dawnguard.esm
+	(3 -> 3)	Dragonborn.esm
+	(4 -> 4)	HearthFires.esm
+	(5 -> 5)	Lady Body.esp
+	(6 -> 6)	UFO - Dragonborn AddOn.esp
+	(7 -> 7)	UFO - Ultimate Follower Overhaul.esp
+	(8 -> 8)	EMCompViljaSkyrim.esp
+	(9 -> 9)	EMViljaChristmasaddon.esp
+	(10 -> 10)	EMViljaInSolstheimAddOn.esp
+Loading menu open/close event registrations...
+Loading key input event registrations...
+Loading control input event registrations...
+Loading mod callback event registrations...
+Loading crosshair ref event registrations...
+Loading camera event registrations...
+Loading actor action event registrations...
+cleared save path
+save name is quicksave
+full save path: C:\Users\vasja\Documents\My Games\Skyrim\Saves\\quicksave.skse
+creating co-save
+Saving mod list:
+	(0)	Skyrim.esm
+	(1)	Update.esm
+	(2)	Dawnguard.esm
+	(3)	Dragonborn.esm
+	(4)	HearthFires.esm
+	(5)	Lady Body.esp
+	(6)	UFO - Dragonborn AddOn.esp
+	(7)	UFO - Ultimate Follower Overhaul.esp
+	(8)	EMCompViljaSkyrim.esp
+	(9)	EMViljaChristmasaddon.esp
+	(10)	EMViljaInSolstheimAddOn.esp
+Saving menu open/close event registrations...
+Saving key input event registrations...
+Saving control input event registrations...
+Saving mod callback event registrations...
+Saving crosshair ref event registrations...
+Saving camera event registrations...
+Saving actor action event registrations...
+cleared save path

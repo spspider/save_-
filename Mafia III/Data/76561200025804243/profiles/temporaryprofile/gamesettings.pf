@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<C_SaveDataUnwrapped>
+	<m_Blocks>
+		<C_GameSettingsProfileSaveBlock>
+			<S_GameSettingsProfile>
+				<m_UnitSystem>0</m_UnitSystem>
+				<m_ArcadeCoeff>0.00000000e+00</m_ArcadeCoeff>
+				<m_Subtitles>true</m_Subtitles>
+				<m_HintText>true</m_HintText>
+				<m_UnitSystemChangedByUser>false</m_UnitSystemChangedByUser>
+				<m_OnFootFollowCameraEnabled>true</m_OnFootFollowCameraEnabled>
+				<m_XMargin>2</m_XMargin>
+				<m_YMargin>0</m_YMargin>
+				<m_FirstTime>false</m_FirstTime>
+			</S_GameSettingsProfile>
+			<m_Id>GameSettings</m_Id>
+			<m_Layer>0</m_Layer>
+		</C_GameSettingsProfileSaveBlock>
+	</m_Blocks>
+</C_SaveDataUnwrapped>N`•
